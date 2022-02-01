@@ -3,3 +3,5 @@
 "alterado antes de mudar credenciais" 
 
 "alterado sem credenciais"
+
+"alterado criando credenciais na mão"

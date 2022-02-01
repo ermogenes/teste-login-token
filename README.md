@@ -5,3 +5,5 @@
 "alterado sem credenciais"
 
 "alterado criando credenciais na mão"
+
+"alterado com token revogado"
